@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" />
   <head>
     <meta charset="utf-8" />
     <meta name="description" content="Phil Rogers' portfolio site" />
@@ -164,7 +162,6 @@
               experience working for some of the biggest organisations in the UK. I have delivered
               numerous contact centre and automated interactive voice systems with deep integrations
               into all kinds of CRM systems.</p>
-              
               <p class="f-semi-expanded normal">I am a strong and positive communicator and collaborator as well as a quick 
               learner, driven to pushing teams forward to improve development, deployment 
               and operational tools wherever possible.</p>
@@ -179,4 +176,3 @@
       </div>
     </div>
   </body>
-</html>
