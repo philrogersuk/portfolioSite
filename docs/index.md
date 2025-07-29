@@ -25,10 +25,8 @@
           <div class="separator-home"></div>
           <div>
             <p class="gray2 f-normal normal t-left">
-              Experienced Java Software Engineer with a demonstrated history in the 
-              telecommunications industry. Skills include Java, Spring, SOAP and REST 
-              Service development, Voice UI design and delivering bespoke integration
-              in PCI environments.
+              A Software Engineer with a passion for crafting robust, scalable applications using best-in-class development practices. 
+              I have a track record of fostering collaborative environments where teams continuously evolve their capabilities and deliver software that creates real business value.
             </p>
             <!-- Social icons -->
             <ul class="social_icons">
@@ -158,15 +156,12 @@
             <h3 class="t-left f-big">About</h3>
             <div class="separator"></div>
             <div class="row">
-             <p class="f-semi-expanded normal">Hi, I'm Phil Rogers, a Java Software Engineer with 11 years of industry 
-              experience working for some of the biggest organisations in the UK. I have delivered
-              numerous contact centre and automated interactive voice systems with deep integrations
-              into all kinds of CRM systems.</p>
-              <p class="f-semi-expanded normal">I am a strong and positive communicator and collaborator as well as a quick 
-              learner, driven to pushing teams forward to improve development, deployment 
-              and operational tools wherever possible.</p>
+             <p class="f-semi-expanded normal">Java Software Engineer experienced in Spring, Kafka, Elasticsearch, RDBMS 
+               and designing scalable cloud architectures with strong observability practices. Proven technical leader skilled
+               in mentoring, stakeholder management and communicating complex solutions effectively to diverse audiences 
+               across all organisational levels.</p>
               <div class="separator"></div>
-              <a href="static/docs/phil-rogers-cv.pdf">
+              <a href="static/docs/phil-rogers-cv-2025.pdf">
                 <p class="f-semi-expanded normal colored-blue">Full CV Download</p>
               </a>
               <div class="separator"></div>
